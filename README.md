@@ -2,9 +2,13 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+
 ## 📌 Sobre este repositório
 Bem-vindo ao meu repositório de projetos em Java!
 Aqui armazeno e organizo diversos projetos desenvolvidos para aprimorar minhas habilidades e explorar diferentes aspectos da linguagem.
+
+
+
 
 ## 📂 Estrutura do Repositório
 Cada projeto está armazenado em um diretório separado e contém:
