@@ -16,7 +16,7 @@ Este repositório é dedicado a exibir meus projetos em Java, demonstrando minha
 - **Descrição:** Desenvolvimento de um backend para envio de emails, como parte de um desafio proposto pela Uber.
 - **Tecnologias utilizadas:** Java, Spring Boot.
 - **Link:** [Uber-challenge](https://github.com/TN-Junior/Uber-backend-challenge.git)
-- 
+  
 
 *(Adicione mais projetos conforme necessário!)*
 
