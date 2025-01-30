@@ -10,12 +10,13 @@ Este repositório é dedicado a exibir meus projetos em Java, demonstrando minha
 ### 🔹 [Projeto 1 - PicPay-Simplified]
 - **Descrição:** Uma plataforma simplificada onde é possível realizar depósitos e transferências entre usuários. Existem dois tipos de usuários: comuns e lojistas. Lojistas só podem receber transferências e não podem realizá-las.
 - **Tecnologias utilizadas:** Java, Spring Boot.
-- **Link:** [https://github.com/TN-Junior/PicPay-Simplified.git](https://github.com/TN-Junior/PicPay-Simplified.git)
+- **Link:** [PicPay-Simplified](https://github.com/TN-Junior/PicPay-Simplified.git)
 
 ### 🔹 [Projeto 2 - Uber-backend-challenge]
 - **Descrição:** Desenvolvimento de um backend para envio de emails, como parte de um desafio proposto pela Uber.
 - **Tecnologias utilizadas:** Java, Spring Boot.
-- **Link:** [https://github.com/TN-Junior/Uber-backend-challenge.git](https://github.com/TN-Junior/Uber-backend-challenge.git)
+- **Link:** [Uber-challenge](https://github.com/TN-Junior/Uber-backend-challenge.git)
+- 
 
 *(Adicione mais projetos conforme necessário!)*
 
