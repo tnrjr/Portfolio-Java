@@ -1,6 +1,7 @@
 # Java Projects Portfolio
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<!--![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,bash,ubuntu,docker,aws,mysql,postgresql,postman)](https://skillicons.dev)
 
 ## 📌 Sobre este Portfólio
 Este repositório é dedicado a exibir meus projetos em Java, demonstrando minha experiência e habilidades com a linguagem. Aqui, você encontrará uma coleção de projetos que desenvolvi para aprimorar meu conhecimento e explorar diferentes aspectos do ecossistema Java.
