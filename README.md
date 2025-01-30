@@ -23,7 +23,7 @@ Este repositório é dedicado a exibir meus projetos em Java, demonstrando minha
 ## 📝 Contato
 Se tiver alguma dúvida ou quiser trocar uma ideia sobre Java e tecnologia, fique à vontade para me chamar!
 
-- **LinkedIn:** [linkedin.com/in/tarynascimento](http://www.linkedin.com/in/tarynascimento)
+- **LinkedIn:** [https://www.linkedin.com/in/tary-nascimento-r-junior/](https://www.linkedin.com/in/tary-nascimento-r-junior/)
 - **GitHub:** [github.com/tn-junior](https://github.com/tn-junior)
 - **Email:** tn-junior@hotmail.com
 
