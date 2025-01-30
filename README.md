@@ -16,9 +16,14 @@ Este repositório é dedicado a exibir meus projetos em Java, demonstrando minha
 - **Descrição:** Desenvolvimento de um backend para envio de emails, como parte de um desafio proposto pela Uber.
 - **Tecnologias utilizadas:** Java, Spring Boot.
 - **Link:** [Uber-challenge](https://github.com/TN-Junior/Uber-backend-challenge.git)
+
+### 🔹 [Projeto 3 - innovation-project-management]
+- **Descrição:** Innovation Project Manager é um sistema para gerenciar projetos de inovação, desenvolvido com Spring Boot. O objetivo é facilitar o acompanhamento de projetos, atribuição de equipes e monitoramento de progresso.
+- **Tecnologias utilizadas:** Java, Spring Boot.
+- **Link:** [innovation-project-managemente](https://github.com/TN-Junior/innovation-project-management.git)
   
 
-*(Adicione mais projetos conforme necessário!)*
+
 
 ## 📝 Contato
 Se tiver alguma dúvida ou quiser trocar uma ideia sobre Java e tecnologia, fique à vontade para me chamar!
