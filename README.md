@@ -21,7 +21,13 @@ Este repositório é dedicado a exibir meus projetos em Java, demonstrando minha
 ### 🔹 [Projeto 3 - innovation-project-management]
 - **Descrição:** Innovation Project Manager é um sistema para gerenciar projetos de inovação, desenvolvido com Spring Boot. O objetivo é facilitar o acompanhamento de projetos, atribuição de equipes e monitoramento de progresso.
 - **Tecnologias utilizadas:** Java, Spring Boot.
-- **Link:** [innovation-project-managemente](https://github.com/TN-Junior/innovation-project-management.git)
+- **Link:** [innovation-project-managemente](https://github.com/TN-Junior/innovation-project-management.git) 
+  
+
+### 🔹 [Projeto 4 - Coin-Backend]
+- **Descrição:** Trabalho de Conclusão de Curso, este projeto foi desenvolvimento com a finalidade de realizar a gestão financeira de uma startup cliente (Plataforma Ativa).
+- **Tecnologias utilizadas:** Java, Spring Boot.
+- **Link:** [Coin-Backend.](https://github.com/TN-Junior/Coin-Backend.git)
   
 
 
