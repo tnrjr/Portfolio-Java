@@ -26,7 +26,7 @@ Este repositório é dedicado a exibir meus projetos em Java, demonstrando minha
 
 ### 🔹 [Projeto 4 - Coin-Backend]
 - **Descrição:** Trabalho de Conclusão de Curso, este projeto foi desenvolvimento com a finalidade de realizar a gestão financeira de uma startup cliente (Plataforma Ativa).
-- **Tecnologias utilizadas:** Java, Spring Boot, MySQL.
+- **Tecnologias utilizadas:** Java, Spring Boot, MySQL, AWS RDS.
 - **Link:** [Coin-Backend.](https://github.com/TN-Junior/Coin-Backend.git)
   
 
