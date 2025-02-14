@@ -3,10 +3,10 @@
 <!--![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,bash,ubuntu,docker,aws,mysql,postgresql,postman)](https://skillicons.dev)
 
-## 📌 Sobre este Portfólio
+## Sobre este Portfólio
 Este repositório é dedicado a exibir meus projetos em Java, demonstrando minha experiência e habilidades com a linguagem. Aqui, você encontrará uma coleção de projetos que desenvolvi para aprimorar meu conhecimento e explorar diferentes aspectos do ecossistema Java.
 
-## 🚀 Projetos Destacados
+## Projetos Destacados
 
 ### 🔹 [Projeto 1 - PicPay-Simplified]
 - **Descrição:** Uma plataforma simplificada onde é possível realizar depósitos e transferências entre usuários. Existem dois tipos de usuários: comuns e lojistas. Lojistas só podem receber transferências e não podem realizá-las.
@@ -32,7 +32,7 @@ Este repositório é dedicado a exibir meus projetos em Java, demonstrando minha
 
 
 
-## 📝 Contato
+## Contato
 Se tiver alguma dúvida ou quiser trocar uma ideia sobre Java e tecnologia, fique à vontade para me chamar!
 
 - **LinkedIn:** [https://www.linkedin.com/in/tary-nascimento-r-junior/](https://www.linkedin.com/in/tary-nascimento-r-junior/)
@@ -41,4 +41,3 @@ Se tiver alguma dúvida ou quiser trocar uma ideia sobre Java e tecnologia, fiqu
 
 ---
 
-🚀 Sinta-se à vontade para explorar e compartilhar feedback!
