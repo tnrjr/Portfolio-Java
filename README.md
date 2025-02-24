@@ -25,9 +25,15 @@ Este repositório é dedicado a exibir meus projetos em Java, demonstrando minha
   
 
 ### 🔹 [Projeto 4 - Coin-Backend]
-- **Descrição:** Trabalho de Conclusão de Curso, este projeto foi desenvolvimento com a finalidade de realizar a gestão financeira de uma startup cliente (Plataforma Ativa).
+- **Descrição:** Trabalho de Conclusão de Curso da Faculdade, este projeto foi desenvolvimento com a finalidade de realizar a gestão financeira de uma startup cliente (Plataforma Ativa), esse projeto aderiu as expectativas, facilidando assim, a organização de finanças da empresa.
 - **Tecnologias utilizadas:** Java, Spring Boot, MySQL, AWS RDS.
 - **Link:** [Coin-Backend.](https://github.com/TN-Junior/Coin-Backend.git)
+
+
+### 🔹 [Projeto 5 - Task_Manager]
+- **Descrição:** Task Management API é uma aplicação backend desenvolvida em Java utilizando Spring Boot e Kafka para processar tarefas assíncronas.
+- **Tecnologias utilizadas:** Java, Spring Boot, Apache Kafka.
+- **Link:** [Task_Manager.](https://github.com/TN-Junior/Task_Manager.git)
   
 
 
